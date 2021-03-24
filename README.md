@@ -1,4 +1,4 @@
-# pacmen
+# PacMan Maker
 Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
@@ -12,7 +12,7 @@ Starter code provided by MIT xPRO Professional Certificate in Web Development
 
 # Plan to Improve
 
-Incorporate other PacMen images based on direction (use other paceman exercise). Warp images based on contact with edges. Use pacArray.
+Incorporate other PacMen images based on direction (use other paceman exercise). Warp images based on contact with edges. Potentially add ghosts and other functionality.
 
 
 ## Link to Project
